@@ -45,7 +45,7 @@ export class AuthService {
             email: user.email,
             firstName,
             lastName,
-            photoUrl: 'https://firebasestorage.googleapis.com/v0/b/chat-4f314.appspot.com/o/default_profile_pic.jpg?alt=media&token=15171a5a-45fa-4e7e-9a4a-522bb330f2ba',
+            photoUrl: 'https://firebasestorage.googleapis.com/v0/b/chat-app-7eb6d.appspot.com/o/profile.jpg?alt=media&token=3e597fa5-0f0f-48e6-976c-76f37060faac',
             quote: 'Life is like a box of chocolates, you never know what you are gonna get!',
             bio: 'Bio is under construction...'
           }
